@@ -12,6 +12,9 @@
     <img src="https://img.shields.io/badge/- -%232c3e50?label=Email&style=social&logo=gmail" alt="gmail">
   </a>
 </p>
+<h3 align="center">Hello My name is maynard i'm filipino web developer i have 1 year of experience in front-end and back-end web development.I really enjoy what i do right now, in my opinion, creating programs is not just a job, but also an art that has aesthetic value...Btw nice to meet you🤝
+</h3>
+
 </h3>
 
 ## Frontend
