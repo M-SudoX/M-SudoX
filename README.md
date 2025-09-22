@@ -1,12 +1,6 @@
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Hello+Geek;I'm+Maynard+filipino+Web+Developer;I+love+to+create+something+new;And+I+like+you+too!" alt="Typing SVG" /></a>
 </p>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=M-SudoX-beta&label=Profile%20views&color=0e75b6&style=flat" alt="M-SudoX" />
-  <a href="https://github.com/M-SudoX">
-    <img src="https://img.shields.io/github/followers/Elcavz" alt="github">
   </a>
   <a href="mailto:zayantomara@gmail.com">
     <img src="https://img.shields.io/badge/- -%232c3e50?label=Email&style=social&logo=gmail" alt="gmail">
