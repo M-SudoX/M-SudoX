@@ -1,11 +1,6 @@
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Hello+Geek;I'm+Maynard+filipino+Web+Developer;I+love+to+create+something+new;And+I+like+you+too!" alt="Typing SVG" /></a>
 </p>
-  </a>
-  <a href="mailto:zayantomara@gmail.com">
-    <img src="https://img.shields.io/badge/- -%232c3e50?label=Email&style=social&logo=gmail" alt="gmail">
-  </a>
-</p>
 <h3 align="center">Hi My name is maynard i'm filipino web developer i have 1 year of experience in front-end and back-end web development.I really enjoy what i do right now, in my opinion, creating programs is not just a job, but also an art that has aesthetic value...Btw nice to meet you🤝
 </h3>
 
