@@ -12,8 +12,6 @@
     <img src="https://img.shields.io/badge/- -%232c3e50?label=Email&style=social&logo=gmail" alt="gmail">
   </a>
 </p>
-
-<h3 align="center">As a full-stack web developer, my primary focus lies in website development. My goal is to assist business owners in establishing an online platform that not only attracts clients but also efficiently manages their technological needs. Whether it's troubleshooting website systems or developing custom applications, I aim to provide tailored solutions that save time and streamline operations for businesses.
 </h3>
 
 ## Frontend
