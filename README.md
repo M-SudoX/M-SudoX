@@ -12,6 +12,8 @@
 ![JS](https://img.shields.io/badge/-Javascript-%232c3e50?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%232c3e50.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%232c3e50.svg?style=for-the-badge&logo=vue.js&logoColor=white)
+![Typescript](https://img.shields.io/badge/vue.js-%232c3e50.svg?style=for-the-badge&logo=vue.js&logoColor=white)
+
 
 ## Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-%232c3e50?style=for-the-badge&logo=Node.js&logoColor=white)
