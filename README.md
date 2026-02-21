@@ -12,7 +12,6 @@
 ![JS](https://img.shields.io/badge/-Javascript-%232c3e50?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%232c3e50.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%232c3e50.svg?style=for-the-badge&logo=vue.js&logoColor=white)
-![Typescript](https://img.shields.io/badge/vue.js-%232c3e50.svg?style=for-the-badge&logo=vue.js&logoColor=white)
 
 
 ## Backend
@@ -20,6 +19,11 @@
 ![Php](https://img.shields.io/badge/-Php-%232c3e50?style=for-the-badge&logo=Php&logoColor=white)
 ![laravel](https://img.shields.io/badge/-laravel-%232c3e50?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySql-%232c3e50.svg?style=for-the-badge&logo=MySql&logoColor=white)
+![Python](https://img.shields.io/badge/vue.js-%232c3e50.svg?style=for-the-badge&logo=python &logoColor=white)
+
+
+
+
 
 ## Platforms I've used
 ![Linux](https://img.shields.io/badge/linux-%232c3e50.svg?style=for-the-badge&logo=linux&logoColor=white)
