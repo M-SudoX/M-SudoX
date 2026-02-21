@@ -19,7 +19,7 @@
 ![Php](https://img.shields.io/badge/-Php-%232c3e50?style=for-the-badge&logo=Php&logoColor=white)
 ![laravel](https://img.shields.io/badge/-laravel-%232c3e50?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySql-%232c3e50.svg?style=for-the-badge&logo=MySql&logoColor=white)
-![Python](https://img.shields.io/badge/vue.js-%232c3e50.svg?style=for-the-badge&logo=python &logoColor=white)
+![Python](https://img.shields.io/badge/python-%232c3e50.svg?style=for-the-badge&logo=python &logoColor=white)
 
 
 
